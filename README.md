@@ -67,7 +67,6 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 >    cnpm i vuex -S
 >    ```
 >
-> 4. 
 
 ## 项目结构
 
