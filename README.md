@@ -1,7 +1,3 @@
----
-typora-root-url: ./
----
-
 # 仿腾讯QQ
 
 > 用Vue.js构建的简易QQ
@@ -77,7 +73,7 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 > 左图是整个项目的目录，右图是项目中src的目录
 >
-> <img src="./media/01.png" width="200px" height="400px"><img src="./media/02.png" width="200px" height="400px">
+> <img src="./media/01.png" width="200px" height="400px">&nbsp;&nbsp;<img src="./media/02.png" width="200px" height="400px">
 
 ## 项目路由
 
