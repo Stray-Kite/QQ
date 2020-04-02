@@ -95,7 +95,7 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 > src/components/search（头部搜索组件）
 >
->  <img src="./media/06.png" width="400px">
+>  <img src="./media/06.png" width="400px"><br>
 >
 >  <img src="./media/07.png" width="400px">
 
@@ -125,7 +125,7 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 >
 > 2. 用户聊天
 >
->    **这个要注意，我们在这里用的是图灵机器人http://www.tuling123.com/，需要你去注册一个，然后去API文档中招对应API，如下：**
+>    **这个要注意，我们在这里用的是图灵机器人http://www.tuling123.com/, 需要你去注册一个，然后去API文档中招对应API，如下：**
 >
 >     <img src="./media/14.png" width="400px">
 >
